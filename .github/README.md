@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://telegra.ph/file/654ddaf472f18b799600b.jpg" alt="StringGen">
+  <img src="https://te.legra.ph/file/f1f17f8c44ba2446b13bf.jpg" alt="StringGen">
 </p>
 
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/AnonymousX1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
+### 🥵 ʜ‌ᴇ‌ؚ‌ʟ‌ؚ‌ʟ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
+  <a href="https://github.com/KUKU-MUSICBOT"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗦𝗛 blue"></a>a>
  
 [![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)

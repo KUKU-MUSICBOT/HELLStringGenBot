@@ -3,7 +3,7 @@
 </p>
 
 ### 🥵 ʜ‌ᴇ‌ؚ‌ʟ‌ؚ‌ʟ sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/KUKU-MUSICBOT"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗦𝗛 blue"></a>a>
+  <a href="https://github.com/KUKU-MUSICBOT"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗦𝗛blue"></a>a>
  
 [![Stars](https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/stargazers)
   [![Forks](https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?style=social)](https://github.com/AnonymousX1025/StringGenBot/fork)

@@ -33,8 +33,9 @@
   
   [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/STRING_XBOT)
 
-### 😈 Ansh HU MADRCHOD
-     .[𝝙𝗡𝗦𝗛](https://t.me/I_LOVE_YOU_MY_HEARTBEET)
+### 😈 ANSH HU RANDI 
+[Ansh HU MADRCHOD](https://t.me/I_LOVE_YOU_MY_HEARTBEET)
+     
 ```
 Atleast Give A Star and Fork The Repo 🖤
 ```
